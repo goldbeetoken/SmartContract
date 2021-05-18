@@ -425,7 +425,7 @@ contract GoldBeeToken is Context, IERC20, Ownable {
     uint256 private _totalSupply = 21 * 10**6 * 10**9;
     uint256 private _tBurnTotal;
 
-    string private _name = "Gold Bee Token";
+    string private _name = "GoldBeeToken";
     string private _symbol = "GBT";
     uint8 private _decimals = 9;
     
